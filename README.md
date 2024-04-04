@@ -7,9 +7,13 @@ In my previous life, I honed my skills in the scientific domain as a Medical Lab
 
 Currently I am working At JD Sports where I focus on developing responsive and high-performance web applications that meet the business requirements of our clients on an Agile basis. I collaborate with different teams to identify project goals and ensure that our solutions meet the needs of our end-users.
 
+
 * 🌍  I'm based in Bolton, United Kingdom
+  
 * ✉️  You can contact me at [uzairoomer@live.com](mailto:uzairoomer@live.com)
+  
 * ⚡  When I'm not coding, I enjoy exploring different cultures through travel, maintaining my health and fitness at the gym, and engaging in gaming sessions with friends and family
+
 
 ### Skills
 
